@@ -1,7 +1,7 @@
 var __darkMode__ = "#575757";
 var __lightMode = "#ffffff";
 
-var __ess__ = "Web Essentials concept by Player_X_YT\n\nDownload at https://githum.com/PlayerXYT/ess\n\nAdd to this at https://forms.gle/CUv5EsWZQvfnYGv87\n\nTo get help do __essman__.SEARCH, or __essman__.help for posible search terms";
+var __ess__ = "Web Essentials concept by Player_X_YT\n\nDownload at https://github.com/PlayerXYT/ess\n\nAdd to this at https://forms.gle/CUv5EsWZQvfnYGv87\n\nTo get help do __essman__.SEARCH, or __essman__.help for posible search terms";
 
 var __essman__ = new Object;
 __essman__.help = "Possible manual searches: darkMode, redirect, cookie";
